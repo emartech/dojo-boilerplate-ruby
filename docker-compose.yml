@@ -1,0 +1,4 @@
+docker-ruby:
+  build: .
+  volumes:
+    - .:/app
